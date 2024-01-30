@@ -1,2 +1,2 @@
 # AutoPullTest
-AutoPullRequest feature test using only main once more
+AutoPullRequest feature test using mybranch
