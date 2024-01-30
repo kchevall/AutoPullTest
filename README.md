@@ -1,2 +1,2 @@
 # AutoPullTest
-AutoPullRequest feature test
+AutoPullRequest feature test using only main
