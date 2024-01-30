@@ -1,2 +1,2 @@
 # AutoPullTest
-AutoPullRequest feature test using child more and more
+AutoPullRequest feature test using child once and for all
